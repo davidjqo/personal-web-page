@@ -39,7 +39,7 @@ canonifyurls = true
   gravatarEmail = "davidjqo.1@gmail.com"
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
-  picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
+  # picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
   # Your Twitter username without the @. E.g : thibaudlepretre
   # twitter = "thibaudlepretre"
   # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
@@ -189,17 +189,17 @@ canonifyurls = true
   [[params.sharingOptions]]
     name = "Facebook"
     icon = "fa-facebook-official"
-    url = "https://www.facebook.com/sharer/sharer.php?u=%s"
+    url = "http://www.facebook.com/sharer.php?u=https://david-quesada.netlify.app/2020/08/coronavirus-qué-es-eso/"
 
   [[params.sharingOptions]]
     name = "Twitter"
     icon = "fa-twitter"
-    url = "https://twitter.com/intent/tweet?text=%s"
+    url = "http://twitter.com/home?status=https://david-quesada.netlify.app/2020/08/coronavirus-qué-es-eso/"
 
-  [[params.sharingOptions]]
-    name = "Google+"
-    icon = "fa-google-plus"
-    url = "https://plus.google.com/share?url=%s"
+#  [[params.sharingOptions]]
+#    name = "Google+"
+#    icon = "fa-google-plus"
+#    url = "https://plus.google.com/share?url=%s"
 
   [params.header.rightLink]
     class = ""
