@@ -189,12 +189,12 @@ canonifyurls = true
   [[params.sharingOptions]]
     name = "Facebook"
     icon = "fa-facebook-official"
-    url = "http://www.facebook.com/sharer.php?u=https://david-quesada.netlify.app/2020/08/coronavirus-qué-es-eso/"
+    url = "http://www.facebook.com/sharer.php?u=https://david-quesada.netlify.app/"
 
   [[params.sharingOptions]]
     name = "Twitter"
     icon = "fa-twitter"
-    url = "http://twitter.com/home?status=https://david-quesada.netlify.app/2020/08/coronavirus-qué-es-eso/"
+    url = "http://twitter.com/home?status=https://david-quesada.netlify.app/"
 
 #  [[params.sharingOptions]]
 #    name = "Google+"
