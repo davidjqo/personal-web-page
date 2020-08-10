@@ -1,6 +1,6 @@
 ---
-title: "Elements showcase"
-date: 2015-05-28
+title: "Reacción al inicio del Covid-19"
+date: 2020-08-09
 categories:
 - tranquilpeak
 - features
