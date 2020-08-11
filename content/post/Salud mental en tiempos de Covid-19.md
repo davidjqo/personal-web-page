@@ -44,5 +44,5 @@ El invertir tiempo en familia, mascotas, deportes, música y hobbies nos permite
 
 Aprovechemos la tecnología para la investigación y aprendizaje de distintos temas. Veamos lo positivo de este tiempo. Seamos proactivos y buenos planificadores de nuestro tiempo, para invertir su mayoría en acciones que realmente agreguen valor a lo que somos y hacemos o a lo que queremos llegar a ser o hacer. Aunque las situaciones económicas, familiares o laborales sean complicados, que los pensamientos negativos sean menos y que las propuestas sean aún mayores. Dicen que "la actitud lo es todo en la vida; es un 10% de lo que sucede y un 90% en el como reaccionamos." ¡No lo olvides!
 
-![Ocio](/images/grabacion.jpg)
-###### He aprendio a grabar música en este tiempo.
+![Ocio](/images/bajo.jpg)
+###### El bajo eléctrico me ha ayudado a descargar mis emociones.
