@@ -1,5 +1,5 @@
 ---
-title: "Teletrabajo"
+title: "Teletrabajo: experiencia personal"
 date: 2020-08-11
 categories:
 - coronavirus
