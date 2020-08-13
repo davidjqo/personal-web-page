@@ -22,7 +22,7 @@ El teletrabajo se ha vuelto en una gran oportunidad para las empresas en tiempos
 
 Según el artículo 3 de la Ley No. 9738 para regular el teletrabajo en Costa Rica, se define como la modalidad de trabajo que se realiza fuera de las instalaciones de la persona empleadora, utilizando las tecnologías de la información y comunicación sin afectar el normal desempeño de otros puestos, de los procesos y de los servicios que se brindan. Esta modalidad de trabajo está sujeta a los principios de oportunidad y conveniencia, donde la persona empleadora y la persona teletrabajadora definen sus objetivos y la forma en cómo se evalúan los resultados del trabajo.
 
-Tomado de: http://www.mtss.go.cr/elministerio/marco-legal/documentos/9738.pdf
+Recuperado de: http://www.mtss.go.cr/elministerio/marco-legal/documentos/9738.pdf
 
 ## Experiencia personal
 

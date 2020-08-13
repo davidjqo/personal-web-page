@@ -22,7 +22,7 @@ La salud mental se ha visto muy afectada debido al Covid-19. El "encierro" y otr
 
 La salud mental incluye nuestro bienestar emocional, psicológico y social. Afecta la forma en que pensamos, sentimos y actuamos cuando enfrentamos la vida. También ayuda a determinar cómo manejamos el estrés, nos relacionamos con los demás y tomamos decisiones. La salud mental es importante en todas las etapas de la vida, desde la niñez y la adolescencia hasta la adultez y la vejez.
 
-Tomado de: https://medlineplus.gov/spanish/mentalhealth.html
+Recuperado de: https://medlineplus.gov/spanish/mentalhealth.html
 
 ## ¿Qué ha estado pasando?
 
