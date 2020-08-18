@@ -5,8 +5,8 @@ year= 2003
 language= "English"
 country="Estados Unidos"
 budget= "$140 000 000"
-actorId= "johnnydepp"
-directorId= "goreverbinski"
+actorId= ["johnnydepp"]
+directorId= ["goreverbinski"]
 +++
 
 

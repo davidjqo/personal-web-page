@@ -32,15 +32,19 @@
         <tr>
             <td class="table-success">Actors </td>
             <td>
-                {{ $t := $.Site.GetPage .Params.actorId}}
-                <a href="/actors/{{ .Params.actorId}}/">{{ $t.Title }}</a>
+                {{ range .Params.actorId }}
+                    {{ $t := $.Site.GetPage .}}
+                    <a href="/actors/{{ .}}">{{ $t.Title }}</a>
+                {{ end }}
             </td>
         </tr>
         <tr>
             <td class="table-success">Director</td>
             <td>
-                {{ $t := $.Site.GetPage .Params.directorId}}
-                <a href="/directors/{{ .Params.directorId}}">{{ $t.Title }}</a>
+                {{ range .Params.directorId }}
+                    {{ $t := $.Site.GetPage .}}
+                    <a href="/directors/{{ .}}">{{ $t.Title }}</a>
+                {{ end }}
             </td>
         </tr>
     </tbody>

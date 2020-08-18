@@ -5,8 +5,8 @@ year= 1997
 language= "English"
 country="Estados Unidos"
 budget= "$200 000 000"
-actorId= "leonardodicaprio"
-directorId= "jamescameron"
+actorId= ["leonardodicaprio"]
+directorId= ["jamescameron"]
 +++
 
 

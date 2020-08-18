@@ -5,8 +5,8 @@ year= 2003
 language= "English"
 country="Estados Unidos"
 budget= "$55 000 000"
-actorId= "joaquinphoenix"
-directorId= "toddphillips"
+actorId= ["joaquinphoenix"]
+directorId= ["toddphillips"]
 +++
 
 

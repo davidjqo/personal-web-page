@@ -5,8 +5,8 @@ year= 2003
 language= "English"
 country="Estados Unidos"
 budget= "$35 000 000"
-actorId= "michaelkeaton"
-directorId= "timburton"
+actorId= ["michaelkeaton"]
+directorId= ["timburton"]
 +++
 
 

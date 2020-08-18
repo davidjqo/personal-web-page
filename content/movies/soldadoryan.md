@@ -5,8 +5,8 @@ year= 1998
 language= "English"
 country="Estados Unidos"
 budget= "$70 000 000"
-actorId= "tomhanks"
-directorId= "stevenspielberg"
+actorId= ["tomhanks"]
+directorId= ["stevenspielberg"]
 +++
 
 
