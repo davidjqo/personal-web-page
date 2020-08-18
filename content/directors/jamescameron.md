@@ -1,0 +1,16 @@
++++
+directorId= "jamescameron"
+title= "James Cameron"
+nationality ="Canadiense"
+birth= "16 de agosto de 1954 (66 años)"
+moviesId= ["titanic"]
++++
+
+
+James Francis Cameron (Kapuskasing, Ontario; 16 de agosto de 1954) es un director, guionista, productor de cine, editor de cine, ingeniero, filántropo y explorador marino canadiense.
+
+Empezó en la industria del cine como técnico en efectos especiales y después triunfó como guionista y director de la película de acción y ciencia ficción The Terminator (1984). Su popularidad le llevó a ser contratado como guionista y director de un proyecto de mayor presupuesto, Aliens: El regreso (1986), y tres años después estrenó The Abyss, una odisea submarina. Siguió gozando del favor de crítica y público con Terminator 2: el juicio final (1991), alabada por sus efectos especiales. Después de dirigir el filme de espías True Lies (1994), Cameron se embarcó en su proyecto más ambicioso y exitoso hasta entonces, Titanic (1997), que se convirtió en la película con más recaudación de la historia y por la que fue ganador a tres premios Óscar, a mejor película, mejor director y mejor montaje.
+
+Después de Titanic, comenzó a trabajar en su siguiente largometraje durante diez años, Avatar (2009), película épica de ciencia ficción que supuso un hito en el desarrollo del cine 3D, por la que fue nominado de nuevo a tres premios Óscar siendo a mejor película, mejor director y mejor montaje. En los años transcurridos entre Titanic y Avatar, trabajó en la creación de varios documentales submarinos y codesarrolló un nuevo sistema de cámara digital 3D. Descrito por un biógrafo como artista y científico,​ También ha aportado avances a filmaciones submarinas y vehículos ROV sumergibles. El 26 de marzo de 2012, descendió al punto más profundo de los océanos en la Tierra, el abismo de Challenger en la fosa de las Marianas, a bordo del sumergible Deepsea Challenger.​ Es la única persona que ha realizado esta gesta en solitario y la tercera que lo ha hecho jamás.
+
+En total, las películas dirigidas por Cameron han recaudado alrededor de 2000 millones de dólares en Norteamérica y 6000 millones en todo el mundo.​ Sin ajustar a la inflación, Avatar es la segunda película más taquillera de la historia del cine con 2787 millones de dólares de recaudación.​ El cineasta canadiense también ostenta el récord de haber dirigido dos de las cinco únicas películas que han superado los 2000 millones de ganancias. En 2013, una nueva especie de rana descubierta en Venezuela, la Pristimantis jamescameroni, fue nombrada en su honor para reconocer sus esfuerzos en advertir sobre el deterioro medioambiental y su promoción pública del veganismo.​ El estilo de James Cameron se centra mucho en el mundo onírico, la consciencia, el medioambiente, el mundo marino, los efectos especiales, el futurismo, etc. Y también por el gusto excesivo por representar situaciones duales en muchos de sus filmes, como pueden ser Terminator, Titanic y Avatar que son unos de sus trabajos más relevantes. Dicha dualidad podría considerarse como un reflejo de su pasión tanto por la ciencia como por el arte. En sus películas muestra personajes femeninos con un fuerte desarrollo en sus personalidades y personajes masculinos con una fuerte convicción.
