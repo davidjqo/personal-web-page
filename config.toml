@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://david-quesada-movies.netlify.app/"
 languageCode = "en-us"
 title = "Movies"
 theme = "plain"
